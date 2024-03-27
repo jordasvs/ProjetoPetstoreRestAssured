@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-26T15:24:36 BRT" name="Suite" finished-at="2024-03-26T15:24:43 BRT" duration-ms="7537">
+    <groups>
+    </groups>
+    <test started-at="2024-03-26T15:24:36 BRT" name="Test" finished-at="2024-03-26T15:24:43 BRT" duration-ms="7537">
+      <class name="PetstoreTest.HTTPRequests">
+        <test-method signature="postPedido()[pri:1, instance:PetstoreTest.HTTPRequests@4f83df68]" started-at="2024-03-26T15:24:36 BRT" name="postPedido" finished-at="2024-03-26T15:24:39 BRT" duration-ms="3801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postPedido -->
+        <test-method signature="getPetInexistente()[pri:2, instance:PetstoreTest.HTTPRequests@4f83df68]" started-at="2024-03-26T15:24:39 BRT" name="getPetInexistente" finished-at="2024-03-26T15:24:40 BRT" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPetInexistente -->
+        <test-method signature="putAtualizarDados()[pri:3, instance:PetstoreTest.HTTPRequests@4f83df68]" started-at="2024-03-26T15:24:40 BRT" name="putAtualizarDados" finished-at="2024-03-26T15:24:42 BRT" duration-ms="1679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putAtualizarDados -->
+        <test-method signature="getPetStatusPending()[pri:4, instance:PetstoreTest.HTTPRequests@4f83df68]" started-at="2024-03-26T15:24:42 BRT" name="getPetStatusPending" finished-at="2024-03-26T15:24:43 BRT" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPetStatusPending -->
+      </class> <!-- PetstoreTest.HTTPRequests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
